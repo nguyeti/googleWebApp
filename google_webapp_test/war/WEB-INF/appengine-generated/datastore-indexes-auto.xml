@@ -1,0 +1,10 @@
+<!-- Indices written at Fri, 17 Jan 2014 22:53:13 CET -->
+
+<datastore-indexes>
+
+    <!-- Used 20 times in query history -->
+    <datastore-index kind="Personne" ancestor="true" source="auto">
+        <property name="nom" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>
